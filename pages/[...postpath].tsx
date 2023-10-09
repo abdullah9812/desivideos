@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://whistlingmoderate.com/d1v7nh8p4m?key=37172e33604048e547a7f1f7d1abe3a1/` 
+					`http://desivideos.lovestoblog.com/` + encodeURI(path as string)
 				}`,
 			},
 		};
