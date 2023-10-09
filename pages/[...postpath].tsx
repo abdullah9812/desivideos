@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`http://desivideos.lovestoblog.com/` + encodeURI(path as string)
+					`https://bit.ly/3PMmDrP`
 				}`,
 			},
 		};
